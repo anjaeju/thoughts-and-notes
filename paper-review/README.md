@@ -4,7 +4,7 @@
 - Trend: Self-Supervised Learning, or etc,.
 
 ## Domain
-### Human Action (행동인식)
+Human Action (행동인식)
 > Arxiv
 - MAR: Masked Autoencoders for Efficient Action Recognition (Arixv 2022)
   - Paper Link / Summary PDF / 
@@ -29,18 +29,16 @@
 > Others
 - Human Action Recognition and Prediction - A Survey (IJCV 2022)
   - Paper Link / Summary PDF /
- 
-  
-### Network Design
+***
+Network Design
 > CVPR
 - Swin Transformer V2: Scaling Up Capacity and Resolution (CVPR 2022)
   - Paper Link / Summary PDF / 
 > ICCV
 - Swin Transformer: Hierarchical Vision Transformer using Shifted Windows (ICCV 2021)
   - Paper Link / Summary PDF / 
-
-
-### Self-Supervised Learning
+***
+Self-Supervised Learning
 > Arxiv
 - Masked Autoencoders As Spatiotemporal Learners (Arixv 2022)
   - Paper Link / Summary PDF / 
@@ -49,6 +47,6 @@
 > CVPR
 - Masked Autoencoders Are Scalable Vision Learners (CVPR 2022)
   - Paper Link / Summary PDF / 
-  
+***
 
 ## Trend
