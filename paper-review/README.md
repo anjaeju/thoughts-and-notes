@@ -51,4 +51,4 @@ Self-Supervised Learning
 
 Others
 - Deep Learning for AI (ACM Communications 2021)
-  - [Paper Link](https://cacm.acm.org/magazines/2021/7/253464-deep-learning-for-ai/fulltext) / [Summary PDF]()
+  - [Paper Link](https://cacm.acm.org/magazines/2021/7/253464-deep-learning-for-ai/fulltext) / [Summary PDF](paper-review/others/Deep Learning for AI.pdf)
