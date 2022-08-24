@@ -49,4 +49,6 @@ Self-Supervised Learning
   - Paper Link / Summary PDF / 
 ***
 
-## Trend
+Others
+- Deep Learning for AI (ACM Communications 2021)
+  - [Paper Link](https://cacm.acm.org/magazines/2021/7/253464-deep-learning-for-ai/fulltext) / [Summary PDF]()
