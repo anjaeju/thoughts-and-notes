@@ -40,8 +40,8 @@ Network Design
 ***
 Self-Supervised Learning
 > Arxiv
-- Masked Autoencoders As Spatiotemporal Learners (Arixv 2022)
-  - Paper Link / Summary PDF / 
+- Masked Autoencoders As Spatiotemporal Learners (Arxiv 2022)
+  - [Paper Link](https://arxiv.org/abs/2205.09113) / [Summary Material](https://github.com/anjaeju/thoughts-and-notes/tree/main/paper-review/self-supervised-learning/Masked%20Autoencoders%20As%20Spatiotemporal%20Learners)
 - VideoMAE: Masked Autoencoders are Data-Efficient Learners for Self-Supervised Video Pre-Training (Arxiv 2021)
   - Paper Link / Summary PDF / 
 > CVPR
