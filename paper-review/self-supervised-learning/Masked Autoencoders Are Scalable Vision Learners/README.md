@@ -40,9 +40,11 @@ Author: Kaiming He, Xinlei Chen, Saining Xie, Yanghao Li, Piotr Dollár, Ross Gi
 - 논문에서 제안하는 방법론은 단순하 Reconstruction task로 간단하다.
     - Input을 Masking 처리하여 Transformer encoder가 Masking 되어있는 부분의 Pixel 정보를 채워넣게 한다.
     - 모델의 디자인은 다음과 같다. 
+    
     <p align="center">
       <img src="https://user-images.githubusercontent.com/40862925/189523979-641d3990-1ecc-411d-8481-cd8d3c16cbd6.png" style="padding: 0;margin:0;">
-    </p>        
+    </p>
+    
     - Encoder는 Masking 되어있지 않은 부분만 받고 정보를 encoding한다.
         - 이 Encoded Vector에 추론해야할 pixel 정보를 담아낸다.
         - 이 때, encoder가 활용하는 정보는 오로지 보이는 pixel 정보 뿐이다.
