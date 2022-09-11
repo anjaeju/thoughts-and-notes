@@ -46,7 +46,7 @@ Self-Supervised Learning
   - Paper Link / Summary PDF / 
 > CVPR
 - Masked Autoencoders Are Scalable Vision Learners (CVPR 2022)
-  - Paper Link / Summary PDF / 
+  - Paper Link / [Summary Writing](https://github.com/anjaeju/thoughts-and-notes/tree/main/paper-review/self-supervised-learning/Masked%20Autoencoders%20Are%20Scalable%20Vision%20Learners) / 
 ***
 
 Others
