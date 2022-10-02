@@ -53,4 +53,4 @@ Others
 - Deep Learning for AI (ACM Communications 2021)
   - [Paper Link](https://cacm.acm.org/magazines/2021/7/253464-deep-learning-for-ai/fulltext) / [Summary Material](https://github.com/anjaeju/thoughts-and-notes/blob/9b65e322a3ff3aefca06f917f1d4529806c04a45/paper-review/others/Deep%20Learning%20for%20AI.pdf)
 - Exploring Plain Vision Transformer Backbones for Object Detection (ECCV 2022)
-  - [Paper Link](https://arxiv.org/abs/2203.16527) / [Summary Material](paper-review/others/`22-10-02-Exploring Plain Vision Transformer Backbones for Object Detection.pdf)
+  - [Paper Link](https://arxiv.org/abs/2203.16527) / [Summary Material](https://github.com/anjaeju/thoughts-and-notes/blob/669a92470ee3478b7741db1c66c662d277fce03c/paper-review/others/%6022-10-02-Exploring%20Plain%20Vision%20Transformer%20Backbones%20for%20Object%20Detection.pdf)
